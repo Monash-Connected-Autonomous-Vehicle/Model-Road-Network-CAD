@@ -11,9 +11,9 @@ Example (Testing Rig):
 - **File:**	    MRN_1_2_1_Chassis_Top_Assembly
 
 ## Folder Structure Example
-- MRN_1_1_Environment
-    - MRN_1_1_1_Environment_Top_Assembly
-    - MRN_1_1_2_Road
-- MRN_1_2_Chassis
-    - MRN_1_2_1_Chassis_Top_Assembly
-    - MRN_1_2_2_Chassis_Doo
+- MRN_1_Environment
+    - MRN_1_1_Environment_Top_Assembly
+    - MRN_1_2_Road
+- MRN_2_Chassis
+    - MRN_2_1_Chassis_Top_Assembly
+    - MRN_2_2_Chassis_Doo
